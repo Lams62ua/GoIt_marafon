@@ -1,0 +1,77 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main styles */
+.main {
+    display: flex; 
+    flex-direction: row-reverse;
+    background-color: #F5F7FA;
+    width: 1200px;
+    margin: 0px auto;
+}
+
+/* main-content */
+.main-content {
+    background-color: #fff;
+}
+
+/* about styles */
+.about {
+    background-color: yellow;
+}
+    
+/* project styles */
+.projects {
+    background: chocolate;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;
+
+ /* margin: 100px 90px 300px 60px;
+
+    margin: 50px;
+
+    margin: 100px 50px; */
+}
+
+.project-title {
+    font-size: 45px;
+    color: blue;
+}
+
+/* work styles */ 
+.work {
+    background: cyan;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+    
+ /* padding: 100px 50px 20px 40px;
+
+    padding: 50px;
+
+    padding: 50px 100px; */
+}
+
+/* education styles */ 
+.education {
+    background: darkblue; 
+}
+
+/* sidebar styles */
+.sidebar {
+    background-color: #1E2939;
+}
+
+
+
+
+
+
+
+
+
